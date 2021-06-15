@@ -1,0 +1,15 @@
+h1{
+    margin-left: 50px;
+}
+table,td,th{
+    padding: 5px;
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  table{
+    width: 400px;
+  }
+  th{
+    background-color: blue;
+    color: white;
+  }
