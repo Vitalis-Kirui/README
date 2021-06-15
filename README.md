@@ -8,7 +8,7 @@
 * functional and updated browser installed on the device.
 * internet connection(data)
 
-{With the above recquirements, click on this link and you will be able to access the domain.}
+{With the above recquirements, click on this link (https://vitalis-kirui.github.io/README/)and you will be able to access the domain.}
 ## Known Bugs
 {It might not be responsive to small screen devices i.e 480px or below. Devices with adriod 6.1 and below might not be supported.}
 ## Technologies Used
