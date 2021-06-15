@@ -27,3 +27,5 @@ Copyright (c) {2020}
 |Nature Walk      | Travelling                    | Driving         | Motor Sport        |
 |Playing Football | Watching Football             | Sketching       |Drawing Competition |
 |Swimming         | Watching Swimming Competition | Listening Music | Coding             |
+
+Note: To the left are Vitalis's and to the right are Travis's.
