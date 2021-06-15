@@ -20,3 +20,15 @@ email: travis.nthiga@student.moringaschool.com}
 ### License
 {Moringa School LTD.}
 Copyright (c) {2020}
+
+
+         VITALIS                          TRAVIS
+|:-----------------------------:|:--------------------------:|
+| HOBBIES      |   LIKES        | HOBBIES    |   LIKES       |
+|:------------:| :-------------:|:----------:|:-------------:|
+|Nature Walk   | Travelling     | Driving    | Motor Sport   |
+| Playing      |Watching        |Sketching   | Drawing       |
+|Football      |Football        |            | Competition   |
+|Swimming      | Watching       |Listening   |coding         |
+|              |  swimming      |to Music    |               |
+|              |  Competitions. |            |               |
